@@ -1,0 +1,29 @@
+p {color: indigo;}
+p{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+line-height: 16px;
+width: 200px;
+background-color: lavender;
+border: 2px solid black; 
+border-radius: 5px;
+padding: 10px; 
+margin: 10px;
+}
+h1, h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: midnightblue
+}
+body {
+	background-color: lightblue;
+}
+a:link {
+	color: black;
+	background-color: powderblue;
+}
+a:hover{
+	color: gray
+}
+img {
+	height: 400px
+}
